@@ -1,0 +1,5 @@
+{
+  "name": "mcmc_sampler",
+  "version": "1.0",
+  "dependencies": ["xtensor", "catch2"]
+}
